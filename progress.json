@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T18:14:58.589Z",
+  "generated_at": "2026-11-24T15:29:21.147Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -213,6 +213,19 @@
       "last_pushed_at": "2026-11-18T18:14:58.689Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2026-11-24T15:29:21.807Z",
+      "last_pushed_at": "2026-11-24T15:29:21.807Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }

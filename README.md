@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 13 problems · 0 labs · 4 math
+**18** solved · 14 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-11-17 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-02-03 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-28 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-11-24 | [solution](problems/0146-momentum-optimizer) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-11-16 | [solution](problems/0024-single-neuron) |
 | [Implement an LSTM Cell from Scratch](https://www.deep-ml.com/problems/907) | medium | 2026-11-09 | [solution](problems/0907-implement-an-lstm-cell-from-scratch) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-11-09 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
