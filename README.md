@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 14 problems · 0 labs · 4 math
+**19** solved · 15 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-03-21 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-10-28 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-17 | [solution](problems/0009-matrix-times-matrix) |
+| [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-11-24 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Implement a Sparse Mixture of Experts Layer](https://www.deep-ml.com/problems/125) | hard | 2026-11-18 | [solution](problems/0125-implement-a-sparse-mixture-of-experts-layer) |
 
 ## Math
